@@ -1,4 +1,4 @@
-🚀 Intelligent SQL Agent (OpenAI / Mistral)
+🚀 ##Intelligent SQL Agent (OpenAI / Mistral)
 
 A natural-language to SQL agent that converts plain English questions into safe SQL queries, automatically identifies relevant tables, executes the query, and returns results — all powered by LLMs and a sample SQLite database.
 
@@ -200,4 +200,5 @@ You can add few-shot examples in prompts for stability.
 🚀 Add fully reactive web UI
 🚀 Add PostgreSQL/MySQL adapters
 🚀 Add SQL cost estimation (EXPLAIN)
+
 🚀 Add schema embeddings for better table selection
