@@ -33,7 +33,6 @@ Powered by **OpenAI** or **Mistral** LLMs + a sample **SQLite** database.
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
 
 
@@ -116,6 +115,7 @@ The agent generates correct, executable SQL automatically.
 Switch LLM using one parameter:
 ```json
 "llm_provider": "openai"
+
 
 
 
